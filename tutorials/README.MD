@@ -17,3 +17,5 @@
 
 
 [数理逻辑](https://yiqinnju.github.io/course/MathLogic/Slides/book.pdf)
+
+[数字电路基础](https://github.com/kevicki/MCU/blob/master/%E3%80%8A%E6%95%B0%E5%AD%97%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E3%80%8B%E9%98%8E%E7%9F%B3%20%20%E7%AC%AC%E4%BA%94%E7%89%88.pdf)
