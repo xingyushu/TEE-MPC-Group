@@ -14,3 +14,6 @@
 [信息论基础](http://home.ustc.edu.cn/~yang96/Elements_of_Information_Theory-second_edition.pdf)
 
 [信息论讲义](http://home.ustc.edu.cn/~kunzhao/TA/ch1-2.pdf)
+
+
+[数理逻辑](https://yiqinnju.github.io/course/MathLogic/Slides/book.pdf)
