@@ -10,3 +10,7 @@
 [线性代数 MIT课程](https://github.com/zlotus/notes-linear-algebra)
 
 [线性代数 pdf ](https://github.com/Angious/PDFbooks/tree/master/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)
+
+[信息论基础](http://home.ustc.edu.cn/~yang96/Elements_of_Information_Theory-second_edition.pdf)
+
+[信息论讲义](http://home.ustc.edu.cn/~kunzhao/TA/ch1-2.pdf)
