@@ -6,8 +6,6 @@ Innovation and practice more
 papers: 相关文献 <br/>
 tutorials: 相关基础知识，如密码学、信息安全数学等  <br/>
 
-文件太大，只提供下载的url
-
 
 [信息安全数学基础](https://github.com/ayanamists/Math-basis-for-Infomation-Security/blob/master/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%20%E7%AC%AC2%E7%89%88.pdf)
 
